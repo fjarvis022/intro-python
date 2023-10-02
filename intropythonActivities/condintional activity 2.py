@@ -1,4 +1,13 @@
 # 1. Write a function that uses a conditional statement. 
+money_you_have= 20.00 
+price_of_it= 10.00
+
+if  money_you_have> price_of_it
+    print(you have bought it)
+else:
+    print(insufficient funds)
+
+
 # Your function should return a message that will determine if
 # class is over or not depending on the argument passed into your function.
 # IF the time of class is greater than 11.30 (for AP section) or
